@@ -12,6 +12,7 @@
 		559289C81D6101FF008C20EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 559289C61D6101FF008C20EF /* Main.storyboard */; };
 		559289CA1D6101FF008C20EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 559289C91D6101FF008C20EF /* Assets.xcassets */; };
 		559289CD1D6101FF008C20EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 559289CB1D6101FF008C20EF /* LaunchScreen.storyboard */; };
+		559289D51D610248008C20EF /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 559289D41D610248008C20EF /* Datos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,8 @@
 		559289C91D6101FF008C20EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		559289CC1D6101FF008C20EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		559289CE1D6101FF008C20EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		559289D41D610248008C20EF /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
+		559289D61D6103BD008C20EF /* pruebas.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = pruebas.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +63,8 @@
 				559289C91D6101FF008C20EF /* Assets.xcassets */,
 				559289CB1D6101FF008C20EF /* LaunchScreen.storyboard */,
 				559289CE1D6101FF008C20EF /* Info.plist */,
+				559289D41D610248008C20EF /* Datos.swift */,
+				559289D61D6103BD008C20EF /* pruebas.playground */,
 			);
 			path = Hamburguesas;
 			sourceTree = "<group>";
@@ -139,6 +144,7 @@
 			files = (
 				559289C51D6101FF008C20EF /* ViewController.swift in Sources */,
 				559289C31D6101FF008C20EF /* AppDelegate.swift in Sources */,
+				559289D51D610248008C20EF /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
